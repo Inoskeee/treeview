@@ -1,0 +1,10 @@
+D:\HSE(2 course)\КПО\TreeView\TreeView\bin\Debug\TreeView.exe.config
+D:\HSE(2 course)\КПО\TreeView\TreeView\bin\Debug\TreeView.exe
+D:\HSE(2 course)\КПО\TreeView\TreeView\bin\Debug\TreeView.pdb
+D:\HSE(2 course)\КПО\TreeView\TreeView\obj\Debug\TreeView.csprojAssemblyReference.cache
+D:\HSE(2 course)\КПО\TreeView\TreeView\obj\Debug\TreeView.TreeView.resources
+D:\HSE(2 course)\КПО\TreeView\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+D:\HSE(2 course)\КПО\TreeView\TreeView\obj\Debug\TreeView.csproj.GenerateResource.cache
+D:\HSE(2 course)\КПО\TreeView\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+D:\HSE(2 course)\КПО\TreeView\TreeView\obj\Debug\TreeView.exe
+D:\HSE(2 course)\КПО\TreeView\TreeView\obj\Debug\TreeView.pdb
